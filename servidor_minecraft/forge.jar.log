@@ -1,12 +1,12 @@
 JVM info: Ubuntu - 11.0.25 - 11.0.25+9-post-Ubuntu-1ubuntu120.04
 java.net.preferIPv4Stack=true
-Current Time: 03/01/2025 00:50:18
+Current Time: 03/01/2025 00:51:08
 Host: files.minecraftforge.net [172.67.161.211, 104.21.58.163]
-Host: maven.minecraftforge.net [172.67.161.211, 104.21.58.163]
+Host: maven.minecraftforge.net [104.21.58.163, 172.67.161.211]
 Host: libraries.minecraft.net [13.107.253.41]
-Host: launchermeta.mojang.com [13.107.253.41]
-Host: piston-meta.mojang.com [13.107.246.41]
-Host: sessionserver.mojang.com [13.107.246.41]
+Host: launchermeta.mojang.com [13.107.246.41]
+Host: piston-meta.mojang.com [13.107.253.41]
+Host: sessionserver.mojang.com [13.107.253.41]
 Host: authserver.mojang.com [Unknown]
 Data kindly mirrored by CreeperHost at https://www.creeperhost.net/
 java.awt.HeadlessException: 
